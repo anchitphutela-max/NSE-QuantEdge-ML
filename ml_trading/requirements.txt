@@ -1,0 +1,21 @@
+# requirements.txt
+# Core ML
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.1.0
+shap>=0.44.0
+optuna>=3.4.0
+joblib>=1.3.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+yfinance>=0.2.31
+
+# Dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Utilities
+python-dateutil>=2.8.2
